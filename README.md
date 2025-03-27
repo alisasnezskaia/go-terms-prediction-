@@ -1,8 +1,6 @@
 # go-terms-prediction-
 # Protein Function Prediction Project
 
-## Authors  
-Noorin Hezarpisheh, Gabriela Anna Kaczmarek, Aleksandra Maslova, Alisa Snezskaia  
 **Date:** February 23, 2025  
 
 ## Table of Contents  
