@@ -1,4 +1,4 @@
-# go-terms-prediction-
+# go-terms-prediction
 # Protein Function Prediction Project
 
 **Date:** February 23, 2025  
